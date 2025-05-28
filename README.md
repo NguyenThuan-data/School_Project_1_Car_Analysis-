@@ -38,9 +38,9 @@ To read the full detailed report including graphs, insights, and methodology, cl
 
 This project was completed as part of the **COMP517 – Data Analysis** course at Auckland University of Technology, during Semester 2, 2023.
 
-**Lecturer** Dr Akbar Ghobakhlou
-**Teaching Assistant** Steven Pan
-**Student:** Thuan Nguyen (ID: 23194073)
+**Lecturer** Dr Akbar Ghobakhlou  
+**Teaching Assistant** Steven Pan  
+**Student:** Thuan Nguyen (ID: 23194073)  
 
 
 
